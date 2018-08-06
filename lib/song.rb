@@ -21,4 +21,9 @@ class Song
     @@artists
   end
   
+  def genre_count
+    count
+    puts "{}"
+  end
+  
 end
