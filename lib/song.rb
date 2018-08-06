@@ -22,9 +22,5 @@ class Song
   end
   
   def genre_count
-    count = 0
-    @@genres.each {|genre| }
-    puts "{}"
   end
-  
 end
